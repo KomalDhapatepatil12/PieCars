@@ -1,0 +1,49 @@
+
+body {
+	background-color: cornflowerblue;
+    margin: 5px;
+    font-size: 20px;
+    text-align: center;
+}
+header {
+   
+    color: yellow;
+    padding: 20px;
+}
+
+.photo{
+    width: 49%;
+    float:right;
+}
+
+
+#gallary img{
+			width:450px;
+			height:300px;
+			border-radius:25px;
+}
+.gallarybx{
+		width:49%;
+		float:left;
+		color:black;
+	
+	
+	
+}
+.footer {
+  
+    color: rgb(19, 20, 21);
+    text-align: center;
+    padding: 10px;
+}
+.phhead{
+	color:black;
+	margin:0 0 20px 0;	
+	
+	
+}
+.homedata{
+		border:1px solid black;
+		
+	
+}
